@@ -3,7 +3,7 @@ id: charybdis
 name: Charybdis
 type: shield
 url: https://github.com/ergonautkb/one
-requires: [nrfmicro_13]
+requires: [nice_nano_v2]
 features:
   - keys
   - pointer
